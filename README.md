@@ -25,9 +25,9 @@ Latest Version Android Studio
 
 ### Program to print the text “ExplicitIntent”.
 
-Developed by : KEERTHIVASAN S
+Developed by : Mohammed Ghufran P
 
-Registeration Number : 212223220046
+Registeration Number : 212225230178
 
 ### activity_main.xml
 
